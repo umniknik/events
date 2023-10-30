@@ -1,0 +1,37 @@
+body {
+    color: #999;
+}
+
+.field {
+    display: flex;
+}
+
+.rowField {
+
+}
+
+.cellField {
+    border: 1px dashed black;
+    height: 120px;
+    width: 120px;
+}
+
+/* .cursorhammer {
+    cursor: url('https://kartinkof.club/uploads/posts/2022-09/thumbs/1662407237_2-kartinkof-club-p-novie-i-krasivie-kartinki-molotok-2.png'), auto;
+} */
+
+.cursorhammer {
+    /* cursor: url('hammer.png'), auto; */
+    /* cursor: none; */
+    cursor: url('m_hammer.png'), auto;
+}
+
+/* .cursorhammer:before {
+    content: "\1F528";
+    display: inline-block;
+    font-size: 20px;
+  } */
+
+  .hide{
+    display: none;
+  }
